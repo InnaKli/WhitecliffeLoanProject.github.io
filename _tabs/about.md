@@ -3,6 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
+##Developement Team
+>Inna Klishunova
+>Shane Hislop
+>Benjamin Charles Olds
+>Keita Morioka
+
 
 >Presentation of WhiteCliffe Loan Platform Project
 
