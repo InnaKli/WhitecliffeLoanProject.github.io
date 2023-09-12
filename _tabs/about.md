@@ -13,7 +13,6 @@ order: 4
 >Keita Morioka
 
 
->Presentation of WhiteCliffe Loan Platform Project
 
 >## Project Overview
 
