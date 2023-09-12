@@ -5,8 +5,11 @@ order: 4
 ---
 ##Developement Team
 >Inna Klishunova
+
 >Shane Hislop
+
 >Benjamin Charles Olds
+
 >Keita Morioka
 
 
