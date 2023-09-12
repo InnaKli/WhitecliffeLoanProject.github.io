@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-##Developement Team
+## Developement Team
 >Inna Klishunova
 
 >Shane Hislop
