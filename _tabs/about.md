@@ -15,7 +15,7 @@ order: 4
 
 >Presentation of WhiteCliffe Loan Platform Project
 
->Project Overview
+>## Project Overview
 
 >This project was a three-part assignment to complete the final project of a Level 6 Diploma in Software Development. The assignment consisted of:
 The project proposal, which included team organization, requirements analysis. The project planning: planning process, backlog, iterations and client/lecturer meetings. The system design: design documentation and wireframes.
